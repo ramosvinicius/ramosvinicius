@@ -2,7 +2,7 @@
 
 - 👨🏻‍👩🏼‍👧🏻‍👦🏼 Sou marido da Camila e pai do Koa
 - 🥋 Eu pratico alguns esportes, como: jiu-jitsu, futevolei e futebol.
-- 🏖️ O lugar que mais gosto es curtir com a minha família, é a praia. 
+- 🏖️ O lugar que mais gosto de curtir com a minha família, é a praia. 
 - 💻 Atualmente eu trabalho como Analista de Dados.
 - 📘 Criei este porfólio para hospedar meus projetos de Dados.
 
