@@ -30,8 +30,6 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-5-Orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-<p align="left">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-Analytics-FF5A01?style=for-the-badge&logo=databricks&logoColor=white" />
