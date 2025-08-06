@@ -40,8 +40,18 @@
 
 ## Me contate nos canais abaixo
 <p align="left">
-  <img alt="(https://www.linkedin.com/in/vin%C3%ADcius-ramos/)" src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img alt="ramosvinicius.vr@#"    src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-ramos/" target="_blank">
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="mailto:ramosvinicius.vr@gmail.com">
+    <img
+      alt="Gmail"
+      src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
 </p>
 
 
