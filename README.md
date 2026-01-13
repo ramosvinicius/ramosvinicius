@@ -6,18 +6,6 @@
 - 💻 Atualmente eu trabalho como Business Analyst e Data Analyst.
 - 📘 Criei este portfólio para hospedar meus projetos de Dados.
 
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ramosvinicius&theme=dark&count_private=true&cache_seconds=86400"
-    alt="Vinicius Ramos's GitHub stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramosvinicius&theme=dark&layout=compact&cache_seconds=86400"
-    alt="Top languages"
-  />
-</div>
 
 ---
 
